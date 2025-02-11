@@ -3,3 +3,4 @@ FROM alpine:latest
 
 # Définir la commande exécutée au démarrage du conteneur
 CMD echo "Simple"
+
